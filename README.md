@@ -2,6 +2,6 @@
 Toribash Movement Speed Graph\
 Measures the movement speed of the player avatar.\
 **Design:**\
-LesDuncan\
+*LesDuncan\
 **Programming:**\
-RickyRicon
+*RickyRicon
