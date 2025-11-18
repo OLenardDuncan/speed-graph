@@ -4,6 +4,6 @@ Toribash Lua script that measures the movement speed of the player avatar and sh
 http://forum.toribash.com/showthread.php?t=330169
 
 * **Design:**
-  * Lenárd Duncan
+  * Lester Lenard Duncan
 * **Programming:**
   * Fran (RickyRicon)
